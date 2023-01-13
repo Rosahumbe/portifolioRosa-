@@ -63,7 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(/src/img/1-fundo.jpeg) no-repeat right; 
+    background: url(/src/img/foto-rosa-banner.png) no-repeat right; 
     background-color: black;
     height: 90vh;
     color: white; 

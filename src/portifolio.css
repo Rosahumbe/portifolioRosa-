@@ -61,15 +61,15 @@ html{
     color: #fff;
 }
 /*  Home   inicio  */
-.home{
+/* .home{
     display: flex;
-    background: url(../img/1-fundo.jpeg) no-repeat right; 
+    background: url(../img/) no-repeat right; 
     background-color: black;
     height: 90vh;
     color: white; 
     min-height: 500px;
     font-family: 'ubuntu', sans-serif;
-}
+} */
 
 .home .max-width{
     margin: auto 0 auto 40px;

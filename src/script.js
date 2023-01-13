@@ -15,13 +15,13 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings:["Desenvolvedor Full Stack Python","Formado em","Gestão Financeira Empresarial","MBA Gestão Bancária","MBA Gestão de Pessoa","Freelancer"],
+        strings:["Desenvolvedora Front End","Formada em","Administração de empresas","Cursando Engenharia de Software","Bootcamp Fullstack Java","Freelancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
     });
     var typed = new Typed(".typing-2", {
-        strings:["Desenvolvedor Full Stack Python","Formado em","Gestão Financeira Empresarial","MBA Gestão Bancária","MBA Gestão de Pessoa","Freelancer"],
+        strings:["Desenvolvedora Front End","Formada em","Administração de empresas","Cursando Engenharia de Software","Bootcamp Fullstack Java","Freelancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
